@@ -9,6 +9,14 @@
     "editor.formatOnSave": false,
     "editor.defaultFormatter": null
   },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
   "javascript.validate.enable": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
